@@ -1,7 +1,7 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
   <a href="https://github.com/Hashamster-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Hasham+Tanveer;Full+Stack+Developer+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Hasham+Tanveer;Full+Stack+Developer+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -207,7 +207,7 @@
 
 <!-- Final Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+⭐;Feel+free+to+explore+my+repositories!+🚀;Let's+build+something+amazing+together!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&lines=Thanks+for+visiting!+⭐;Feel+free+to+explore+my+repositories!+🚀;Let's+build+something+amazing+together!+💡" alt="Typing SVG" />
 </p>
 
 <!-- Animated Footer -->
