@@ -12,9 +12,9 @@
 
 <!-- Profile Views Counter & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hashamster-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hashamster-dev?label=Followers&style=for-the-badge&logo=github&color=58A6FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Hashamster-dev?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Hashamster-dev&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hashamster-dev?label=Followers&style=flat-square&logo=github&color=58A6FF" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Hashamster-dev?label=Stars&style=flat-square&logo=github&color=yellow" alt="GitHub stars" />
 </p>
 
 <!-- Animated About Section -->
@@ -34,23 +34,13 @@
 </h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🥇_Harvard_Hackathon-Solved_9_Puzzles-gold?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard Hackathon" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌟_Lablab_AI-Final_Round-blue?style=for-the-badge&logo=ai&logoColor=white" alt="Lablab AI" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Speed_Building-Real_Projects-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Speed Building" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🥇_Harvard_Hackathon-Solved_9_Puzzles-gold?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Hackathon" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_Lablab_AI-Final_Round-blue?style=flat-square&logo=ai&logoColor=white" alt="Lablab AI" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Speed_Building-Real_Projects-brightgreen?style=flat-square&logo=rocket&logoColor=white" alt="Speed Building" />
 </p>
 
 ---
@@ -63,13 +53,16 @@
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hashamster-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=25&custom_title=Hasham's%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hashamster-dev&theme=tokyonight&hide_border=true&fire=EB4A26&curr=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hashamster-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=30&custom_title=Hasham's%20GitHub%20Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashamster-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashamster-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashamster-dev&theme=tokyonight&hide_border=true&fire=EB4A26&curr=58A6FF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashamster-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashamster-dev&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -189,19 +182,19 @@
 
 <p align="center">
   <a href="https://github.com/Hashamster-dev">
-    <img src="https://img.shields.io/badge/GitHub-Hashamster-dev-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Hashamster_dev-58A6FF?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
