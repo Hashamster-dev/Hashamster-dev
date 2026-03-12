@@ -24,27 +24,6 @@
   </a>
 </p>
 
----
-
-<!-- Animated Section Headers -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <b>🏆 Hackathon Achievements</b>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_Harvard_Hackathon-Solved_9_Puzzles-gold?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Hackathon" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟_Lablab_AI-Final_Round-blue?style=flat-square&logo=ai&logoColor=white" alt="Lablab AI" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Speed_Building-Real_Projects-brightgreen?style=flat-square&logo=rocket&logoColor=white" alt="Speed Building" />
-</p>
-
----
-
 <!-- GitHub Stats Section with Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
