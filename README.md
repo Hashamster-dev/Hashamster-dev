@@ -148,7 +148,7 @@
   <a href="https://github.com/Hashamster-dev">
     <img src="https://img.shields.io/badge/GitHub-Hashamster_dev-58A6FF?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/hasham-tanveer-76bb9b265/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-twitter">
