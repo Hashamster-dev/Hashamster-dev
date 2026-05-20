@@ -15,14 +15,10 @@
 
 <!-- GitHub Stats Section with Animation -->
 <h2 align="center">
-  <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> -->
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
   <b>📊 GitHub Statistics</b>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 </h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hashamster-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=30&custom_title=Hasham's%20GitHub%20Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashamster-dev&theme=tokyonight&hide_border=true&fire=EB4A26&curr=58A6FF" />
