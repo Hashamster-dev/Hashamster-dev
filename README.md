@@ -7,11 +7,11 @@
 
 
 <!-- Profile Views Counter & Badges -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hashamster-dev&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Hashamster-dev?label=Followers&style=flat-square&logo=github&color=58A6FF" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Hashamster-dev?label=Stars&style=flat-square&logo=github&color=yellow" alt="GitHub stars" />
-</p>
+</p> -->
 
 <!-- GitHub Stats Section with Animation -->
 <h2 align="center">
