@@ -15,7 +15,7 @@
 
 <!-- GitHub Stats Section with Animation -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> -->
   <b>📊 GitHub Statistics</b>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 </h2>
